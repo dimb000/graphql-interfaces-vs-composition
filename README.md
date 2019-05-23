@@ -2,7 +2,9 @@
 
 ## Lets figure it out!
 
-Run this server - `npm start`
+- Run this server - `npm start`
+- Go to the `http://localhost:4000/graphql`
+
 
 ## Some queries to check it out:
 
