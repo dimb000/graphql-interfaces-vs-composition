@@ -83,4 +83,4 @@ class SuperPerson extends Person {
 }
 ```
 
-So, why do we need this composition in GraphQL schema?
+# So, why do we need this composition in GraphQL schema?
