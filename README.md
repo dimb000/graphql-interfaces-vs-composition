@@ -1,4 +1,4 @@
-# Do we need to have type composition if we can do it with interfaces?
+# Do we need to have a type composition if we can do it with interfaces?
 
 ## Lets figure it out!
 
