@@ -9,10 +9,8 @@ Run this server - `npm start`
 ```gql
 query {
   fields {
-    ... on Field {
-      id
-      name
-    }
+    id
+    name
 
     ... on TextField {
       value
