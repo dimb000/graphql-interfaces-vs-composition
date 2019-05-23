@@ -31,7 +31,7 @@ query {
 }
 ```
 
-```
+```gql
 query {
   fancyFields {
     id
